@@ -11,8 +11,12 @@
 </head>
 <body>
     
+    <div class="container-anotacoes">
+    </div><!--container--anotacao-->
+
     <div class="btn-add">+</div><!--btn-add-->
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/file.js"></script>
 </body>
 </html>
